@@ -1,0 +1,17 @@
+.quote-div {
+  font-family: cursive;
+  margin-top: 100px;
+  padding: 40px;
+  border-radius: 80px 0 80px 0;
+  min-height: 200px;
+  font-size: 28px;
+  text-align: center;
+}
+
+.quote-div i {
+  display: block;
+  text-align: right;
+  margin-top: 60px;
+  font-size: 16px;
+  color: #d0d0d0;
+}
